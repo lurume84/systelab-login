@@ -33,7 +33,8 @@
   "dependencies": {
     "systelab-components": "^7.0.0",
     "systelab-preferences": "^4.0.0",
-    "systelab-translate": "^5.0.0"
+    "systelab-translate": "^5.0.0",
+    "u2f-api": "^1.0.8"
   },
   "devDependencies": {
     "@angular/animations": "7.0.0",
